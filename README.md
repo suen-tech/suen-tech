@@ -1,6 +1,6 @@
 ## Hello, there🤗
 I am Sohei Ueno(suen-bit). Japanese junior engineer.<br>
-I am a user of OSS and want to be a supporter.　Please support me in my challenge!!
+I am a user of OSS and want to be a supporter. Please support me in my challenge!!
 
 ### My development environment
 **Code Editor** 
