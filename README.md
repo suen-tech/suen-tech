@@ -17,7 +17,7 @@ I am a user of OSS and want to be a supporter. Please support me in my challenge
 ## Learning Now
 
 **Programming Language**
-> <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat-square"> <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-yellow.svg?logo=typescript&style=flat-square"></a> <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/-Rust-000.svg?logo=rust&style=flat-square"></a> 
+> <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat-square"> <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-yellow.svg?logo=typescript&style=flat-square"></a> <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/-Rust-000.svg?logo=rust&style=flat-square"></a> <a href="https://go.dev"><img src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=flat-square"></a>
 
 **Development Tools**
 > <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat-square"></a>
