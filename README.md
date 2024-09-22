@@ -7,7 +7,8 @@ I am a user of OSS and want to be a supporter. Please support me in my challenge
 **Code Editor** 
 > <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat-square"></a>
-<img src="https://img.shields.io/badge/-PyCharm%20Professional-000000.svg?logo=pycharm&style=flat-square">
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/-PyCharm%20Professional-000000.svg?logo=pycharm&style=flat-square"></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/-Intellij_IDEA-000.svg?logo=intellij-idea&style=flat-square"></a><br>
 
