@@ -1,38 +1,63 @@
 # Hello, there🤗
+<a href="https://github.com/suen-tech" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/suen_tech" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+
 I am Sohei Ueno(suen-tech). Japanese junior engineer.<br>
 I am a user of OSS and want to be a supporter. Please support me in my challenge!!
 
 ## Language and Tools
 
-**Code Editor** 
-> <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px; vertical-align: top" src="https://cdn.simpleicons.org/pycharm" alt="PyCharm" height="30" /></a>　
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px; vertical-align: top" src="https://camo.githubusercontent.com/f39f203ca1defeb47e3505ef9044d3303c038c60de7e67f6c229992602e59128/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="Visual Studio Code" height="30" /></a>
-<br>
+### **Code Editor**  
 
-**Programming Language** 
-> <a href="https://www.python.org/" target="_blank"><img style="margin: 10px; vertical-align: top" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="Python" height="30" /></a> 
-<br>
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; margin:10px" />](https://code.visualstudio.com/)
+[<img align="left" alt="PyCharm" width="30px" src="https://cdn.simpleicons.org/pycharm" style="padding:10px; margin:10px" />](https://www.jetbrains.com/pycharm/#gh-light-mode-only)
+[<img align="left" alt="PyCharm" width="30px" src="https://cdn.simpleicons.org/pycharm/white" style="padding:10px; margin:10px" />](https://www.jetbrains.com/pycharm/#gh-dark-mode-only)
 
-**Development Tools**
-> <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30" /></a>　
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px; vertical-align: top" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a>　
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px; vertical-align: top" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30" /></a>　
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px; vertical-align: top" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="30" /></a>　
-<a href="https://www.docker.com/" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/docker" style="margin: 10px; vertical-align: top" src="https://www.docker.com/" alt="Docker" height="30" /></a>
+<br />
+
+### **Programming Language**  
+
+[<img align="left" alt="Python" width="30px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" style="padding-right:10px; margin:10px" />](https://python.org)
 
 
- 
+<br />
+
+
+### **Development Tools**
+
+[<img align="left" alt="Ubuntu" width="30px" src="https://cdn.simpleicons.org/Ubuntu" style="padding-right:10px; margin:10px" />](https://ubuntu.com)
+[<img align="left" alt="git" width="30px" src="https://cdn.simpleicons.org/git" style="padding-right:10px; margin:10px" />](https://git-scm.com/)
+[<img align="left" alt="bash" width="30px" src="https://cdn.simpleicons.org/gnubash" style="padding-right:10px; margin:10px" />](https://git-scm.com/)
+[<img align="left" alt="powershell" width="30px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" style="padding-right:10px; margin:10px" />](https://docs.microsoft.com/en-us/powershell/)
+[<img align="left" alt="Docker" width="30px" src="https://cdn.simpleicons.org/docker" style="padding-right:10px; margin:10px" />](https://docker.com/)
+
+
+<br />
+<br />
+
+
 ## Currently Learning
 
-**Programming Language**
-> <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px; vertical-align: top" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" /></a>　
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px; vertical-align: top" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="30" /></a>　
-<a href="https://deno.land/" target="_blank"><img style="margin: 10px; vertical-align: top" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="30" /></a>　
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px; vertical-align: top" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="30" /></a>　
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px; vertical-align: top" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="30" /></a>　
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px; vertical-align: top" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="30" /></a>
+### **Programming Language**
+
+[<img align="left" alt="javascript" width="30px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" style="padding-right:10px; margin:10px" />](https://www.javascript.com/)
+[<img align="left" alt="typescript" width="30px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" style="padding-right:10px; margin:10px" />](https://www.typescriptlang.org/)
+[<img align="left" alt="deno" width="30px" src="https://cdn.simpleicons.org/deno/black" style="padding-right:10px; margin:10px" />](https://deno.land/#gh-light-mode-only)
+[<img align="left" alt="deno" width="30px" src="https://cdn.simpleicons.org/deno/white" style="padding-right:10px; margin:10px" />](https://deno.land/#gh-dark-mode-only)
+[<img align="left" alt="golang" width="30px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" style="padding-right:10px; margin:10px" />](https://go.dev/)
+[<img align="left" alt="rust" width="30px" src="https://cdn.simpleicons.org/rust/black" style="padding-right:10px; margin:10px" />](https://deno.land/#gh-light-mode-only)
+[<img align="left" alt="rust" width="30px" src="https://cdn.simpleicons.org/rust/white" style="padding-right:10px; margin:10px" />](https://deno.land/#gh-dark-mode-only)
+[<img align="left" alt="mysql" width="30px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" style="padding-right:10px; margin:10px" />](https://www.mysql.com/)
+
+
+<br />
+<br />
 
 
 ## 🏆Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suen-tech&show_icons=true&theme=radical)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suen-tech&show_icons=true&theme=radical)&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suen-tech)](https://github.com/anuraghazra/github-readme-stats)
