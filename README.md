@@ -47,7 +47,7 @@ I am a user of OSS and want to be a supporter. Please support me in my challenge
 [<img align="left" alt="javascript" width="30px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" style="padding-right:10px; margin:10px" />](https://www.javascript.com/)
 [<img align="left" alt="typescript" width="30px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" style="padding-right:10px; margin:10px" />](https://www.typescriptlang.org/)
 [<img align="left" alt="deno" width="30px" src="https://cdn.simpleicons.org/deno/black" style="padding-right:10px; margin:10px" />](https://deno.land/#gh-light-mode-only)
-[<img align="left" alt="deno" width="30px" src="https://cdn.simpleicons.org/deno/white" style="padding-right:10px; margin:10px" />](https://deno.land/#gh-dark-mode-only)
+[<img align="left" alt="deno" width="30px" src="https://cdn.simpleicons.org/deno/fff" style="padding-right:10px; margin:10px" />](https://deno.land/#gh-dark-mode-only)
 [<img align="left" alt="golang" width="30px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" style="padding-right:10px; margin:10px" />](https://go.dev/)
 [<img align="left" alt="rust" width="30px" src="https://cdn.simpleicons.org/rust/black" style="padding-right:10px; margin:10px" />](https://deno.land/#gh-light-mode-only)
 [<img align="left" alt="rust" width="30px" src="https://cdn.simpleicons.org/rust/white" style="padding-right:10px; margin:10px" />](https://deno.land/#gh-dark-mode-only)
