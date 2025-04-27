@@ -29,7 +29,7 @@ I am a user of OSS and want to be a supporter. Please support me in my challenge
 
 ### **Development Tools**
 
-[<img align="left" alt="Ubuntu" width="30px" src="https://cdn.simpleicons.org/Ubuntu" style="padding-right:10px; margin:10px" />](https://ubuntu.com)
+[<img align="left" alt="Ubuntu" width="30px" src="https://cdn.simpleicons.org/ubuntu" style="padding-right:10px; margin:10px" />](https://ubuntu.com)
 [<img align="left" alt="git" width="30px" src="https://cdn.simpleicons.org/git" style="padding-right:10px; margin:10px" />](https://git-scm.com/)
 [<img align="left" alt="bash" width="30px" src="https://cdn.simpleicons.org/gnubash" style="padding-right:10px; margin:10px" />](https://git-scm.com/)
 [<img align="left" alt="powershell" width="30px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" style="padding-right:10px; margin:10px" />](https://docs.microsoft.com/en-us/powershell/)
