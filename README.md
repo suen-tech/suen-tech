@@ -3,7 +3,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/suen_tech" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 
 I am Sohei Ueno(suen-tech). Japanese junior engineer.<br>
@@ -31,7 +31,7 @@ I am a user of OSS and want to be a supporter. Please support me in my challenge
 
 [<img align="left" alt="Ubuntu" width="30px" src="https://cdn.simpleicons.org/ubuntu" style="padding-right:10px; margin:10px" />](https://ubuntu.com)
 [<img align="left" alt="git" width="30px" src="https://cdn.simpleicons.org/git" style="padding-right:10px; margin:10px" />](https://git-scm.com/)
-[<img align="left" alt="bash" width="30px" src="https://cdn.simpleicons.org/gnubash" style="padding-right:10px; margin:10px" />](https://git-scm.com/)
+[<img align="left" alt="bash" width="30px" src="https://cdn.simpleicons.org/gnubash" style="padding-right:10px; margin:10px" />](https://www.gnu.org/software/bash/)
 [<img align="left" alt="powershell" width="30px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" style="padding-right:10px; margin:10px" />](https://docs.microsoft.com/en-us/powershell/)
 [<img align="left" alt="Docker" width="30px" src="https://cdn.simpleicons.org/docker" style="padding-right:10px; margin:10px" />](https://docker.com/)
 
