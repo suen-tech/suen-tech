@@ -59,5 +59,4 @@ I am a user of OSS and want to be a supporter. Please support me in my challenge
 
 
 ## 🏆Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suen-tech&show_icons=true&theme=radical)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suen-tech)](https://github.com/anuraghazra/github-readme-stats)
+Under maintenance...
